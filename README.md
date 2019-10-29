@@ -18,3 +18,12 @@ _this second example of talic_
 
 ***ALL BOLD + ITALIC***
 
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+'''<INPUT TYPE=TEXT>'''
+  
+  THIS SITE WAS BULD BY {IBAD110} (https://www.github.com/ibad110)
