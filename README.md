@@ -26,4 +26,4 @@ Use `git status` to list all new or modified files that haven't yet been committ
 
 '''<INPUT TYPE=TEXT>'''
   
-  THIS SITE WAS BULD BY {IBAD110} (https://www.github.com/ibad110)
+  THIS SITE WAS BULD BY [IBAD110] (https://www.github.com/ibad110)
