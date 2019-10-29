@@ -27,3 +27,23 @@ Use `git status` to list all new or modified files that haven't yet been committ
 '''<INPUT TYPE=TEXT>'''
   
   THIS SITE WAS BULD BY [IBAD110](https://www.github.com/ibad110).
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+1. First list item
+    - First nested list item
+    - Second nested list item
+    
+    100. First list item
+     - First nested list item
+     
+- [ ] Finish my changes
+- [x] Push my commits to GitHub
+- [ ] Open a pull request
+
